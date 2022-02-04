@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "'Doctors Appointment'",
+      "day": "'March 1st at 2:30pm'",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "'Meeting at school'",
+      "day": "'March 3rd at 1:30pm'",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "'Food Shopping'",
+      "day": "'March 1st at 11:00am'",
+      "reminder": false
+    },
+    {
+      "text": "School appointment",
+      "day": "December 15th at 9:30am",
+      "reminder": false,
+      "id": "axzuPwA"
+    },
+    {
+      "text": "Go for Practise",
+      "day": "February 4th, at 6:00 pm",
+      "reminder": true,
+      "id": "Ef5bkgJ"
+    }
+  ]
+}

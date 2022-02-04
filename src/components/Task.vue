@@ -1,7 +1,7 @@
 <template>
     <div @dblclick="$emit('toggle-reminder', task.id)" :class="[task.reminder ? 'reminder' : '', 'task']">
         <h3>{{ task.text }}
-            <i @click="onDelete(task.id)">X</i>
+            <i @click="onDelete(task.id)">x</i>
         </h3>
         
         <p>{{ task.day }}</p>
