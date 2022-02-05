@@ -10,7 +10,7 @@
       "id": "2",
       "text": "'Meeting at school'",
       "day": "'March 3rd at 1:30pm'",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": "3",
@@ -21,7 +21,7 @@
     {
       "text": "School appointment",
       "day": "December 15th at 9:30am",
-      "reminder": false,
+      "reminder": true,
       "id": "axzuPwA"
     },
     {
